@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">labdarbas2</string>
+    <string name="button_15min">15MIN</string>
+    <string name="button_delfi">Delfi</string>
+    <string name="button_game">Pabėgimas</string>
+    <string name="button_play">Paspausk mane</string>
+    <string name="button_clear">Išvalyti atmintį</string>
+    <string name="textViewName">Ilja Dedeiko MKDf-18/4</string>
+    <string name="backToMain">Grįžti</string>
+</resources>
